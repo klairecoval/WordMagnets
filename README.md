@@ -13,6 +13,8 @@ A magnetic poetry app created in Swift for IGME-340 Spring
 
 ## Checkpoint 1
 ### Initial Sketches
+Word would ideally be positioned at the bottom so that the user feels gets the feeling of texting. There will be an export button at the top to save to gallery, save to app, or export/share on other apps
+
 ![alt text](Images/wordFrame.png "Wireframe of proposed app")
 
 ### Current Features
