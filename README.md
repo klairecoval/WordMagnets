@@ -13,6 +13,7 @@ A magnetic poetry app created in Swift for IGME-340 Spring
 
 ## Checkpoint 1
 ### Initial Sketches
+![alt text](images/wordFrame.png "Wireframe of proposed app")
 
 ### Current Features
 1. Words can be dragged (no zoom or rotation)
