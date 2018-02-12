@@ -1,5 +1,6 @@
 # WordMagnets
 Claire Koval and Danny Kim
+
 A magnetic poetry app created in Swift for IGME-340 Spring
 
 ## Proposed Features
