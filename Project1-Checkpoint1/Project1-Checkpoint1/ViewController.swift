@@ -23,11 +23,11 @@ class ViewController: UIViewController {
     }
     
     func placeWords(){
-        var wordRow: CGFloat = 1.0
-        let wordSpacing: CGFloat = 10.0 //set space inbetween words
+        var row: CGFloat = 1.0
+        let spacing: CGFloat = 10.0 //set space inbetween words
         let gutter: CGFloat = 20       // Right margin to help keep words in view
-        var x: CGFloat = wordSpacing
-        var y: CGFloat = wordSpacing
+        var xPos: CGFloat = spacing
+        var yPos: CGFloat = spacing
         
         for word in words{
             let l = UILabel() //Make new lable
@@ -45,25 +45,25 @@ class ViewController: UIViewController {
             }
             l.frame.size.height = 40
             
-            x += wordSpacing
+            xPos += spacing
             
             //Move words to next row if the words extend the frame width
-            if (x+l.frame.size.width+wordSpacing)>(UIScreen.main.bounds.width-gutter){
-                x = wordSpacing
-                wordRow += 1
+            if (xPos + l.frame.size.width + spacing)>(UIScreen.main.bounds.width - gutter){
+                xPos = spacing
+                row += 1
             }
-            y = wordRow*(wordSpacing+l.frame.size.height)
+            yPos = row*(spacing + l.frame.size.height)
             
-            // Position words
-            l.frame.origin.x = x
-            l.frame.origin.y = y
+            //Position words
+            l.frame.origin.x = xPos
+            l.frame.origin.y = yPos
             
             //Add to x position
-            x += l.frame.size.width
+            xPos += l.frame.size.width
             
             //Make the words draggable!
             l.isUserInteractionEnabled = true
-            let panGesture = UIPanGestureRecognizer(target:self,action:#selector(makeDraggable))
+            let panGesture = UIPanGestureRecognizer(target:self, action:#selector(makeDraggable))
             l.addGestureRecognizer(panGesture)
             
             //Add words to view
