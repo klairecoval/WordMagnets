@@ -29,3 +29,10 @@ User interaction with the pan gesture draggability is working, and the words sta
 Look into customizing background colors, labels, and word fonts.
 
 ## Checkpoint 2
+- The user can load at least 3 distinct sets of words. (see the Tables I-III Walkthrough for ideas on how to let the user choose something from a list). Because multiple view controllers will depend on the same data, ideally you have that data stored in just one place.
+- Before loading a new word set the app needs to get rid of all of the old UILabels. See this Stack Overflow post on how to do this. (-3 if not done)
+- When new word sets are loaded, make sure that the words are not too close to the top or edges of the screen for the user to tap. Test for this fact on a real device. (-2 if not done)
+- Hide the status bar - you can do this on the General settings page for the Xcode project (-2 if not done)
+- Make sure your Springboard app name matches the name on the icon - see developer.apple.com - Updating the Display Name of Your App (-2 if not done)
+- Get rid of all compiler warnings - including those for unused variables, missing icons, and broken Storyboard constraints (-1 per compiler warning)
+- Make sure you still meet all of the checkpoint #1 requirements (-1 per requirement not met)
