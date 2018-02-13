@@ -26,7 +26,9 @@ User interaction with the pan gesture draggability is working, and the words sta
 1. Words can be dragged (no zoom or rotation)
 
 ### Upcoming
-Look into customizing background colors, labels, and word fonts.
+Look into customizing background colors, labels, and word fonts. 
+
+Will make the UI and Loadscreen more visually pleasing.
 
 ## Checkpoint 2
 - The user can load at least 3 distinct sets of words. (see the Tables I-III Walkthrough for ideas on how to let the user choose something from a list). Because multiple view controllers will depend on the same data, ideally you have that data stored in just one place.
