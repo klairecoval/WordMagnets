@@ -31,6 +31,13 @@ Will make the UI and Loadscreen more visually pleasing.
 ### Updated Icon
 ![alt text](Project1-Checkpoint2/Images/ios/iTunesArtwork@1x.png)
 
+### New Main Words Page
+![alt text](Images/NewMainScreen.PNG)
+
+### Word Set Menu
+The user can load at least 3 distinct sets of words, sorted alphabetically.
+![alt text](Images/SetMenu.PNG)
+
 ### Updated Features
 - The user can load at least 3 distinct sets of words. 
 - Before loading a new word set the app needs to get rid of all of the old UILabels. 
