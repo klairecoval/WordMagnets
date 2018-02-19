@@ -4,9 +4,9 @@ Claire Koval and Danny Kim
 A magnetic poetry app created in Swift for IGME-340 Spring
 
 ## Proposed Features
-1. Add custom words
-2. Deleting words with animated trash can icon that gets bigger as word gets closer to the icon
-3. Shake or press button to clear screen and move words back to the top.
+- Add custom words
+- Deleting words with animated trash can icon that gets bigger as word gets closer to the icon
+- Shake or press button to clear screen and move words back to the top.
 
 ## Checkpoint 1
 ### Initial Sketches
@@ -21,7 +21,7 @@ User interaction with the pan gesture draggability is working, and the words sta
 ![alt text](Images/LaunchScreen.png "current launch screen page")
 
 ### Current Features
-1. Words can be dragged (no zoom or rotation)
+- Words can be dragged (no zoom or rotation)
 
 ### Upcoming
 Look into customizing background colors, labels, and word fonts. 
@@ -31,6 +31,7 @@ Will make the UI and Loadscreen more visually pleasing.
 ### Updated Icon
 ![alt text](Project1-Checkpoint2/Images/ios/iTunesArtwork@1x.png)
 
+### Updated Features
 - The user can load at least 3 distinct sets of words. 
 - Before loading a new word set the app needs to get rid of all of the old UILabels. 
 - Hides the status bar.
