@@ -28,15 +28,16 @@ Look into customizing background colors, labels, and word fonts.
 Will make the UI and Loadscreen more visually pleasing.
 
 ## Checkpoint 2
-### Updated Icon
-![alt text](Project1-Checkpoint2/Images/ios/iTunesArtwork@1x.png)
+### Updated Icon and Launch Screen
+![alt text](Project1-Checkpoint2/Images/ios/iTunesArtwork@1x.png "new icon")
+![alt text](Images/NewLaunchScreen.png "new launch screen")
 
 ### New Main Words Page
-![alt text](Images/NewMainScreen.PNG)
+![alt text](Images/NewMainScreen.PNG "new main screen")
 
 ### Word Set Menu
 The user can load at least 3 distinct sets of words, sorted alphabetically.
-![alt text](Images/SetMenu.PNG)
+![alt text](Images/SetMenu.PNG "word set menu")
 
 ### Updated Features
 - The user can load at least 3 distinct sets of words. 
