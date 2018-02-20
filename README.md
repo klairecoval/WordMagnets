@@ -49,6 +49,7 @@ The user can load at least 3 distinct sets of words, sorted alphabetically.
 ### Upcoming
 - Looking to add and delete words
 - Add refresh button to place words back in their spawning position (at the top)
+- Potentially add animations
 - State Preservation. The user's current chosen category will be stored in UserDefaults, and the chosen word set will be displayed in when they launch the app.
 - Use a larger font size when creating word magnets for an iPad. Be sure that the words can still fit on the smallest iPhone screens (the iPhone 5/iPhone SE)
 - The user can share their poetry (a screenshot of the entire poem) with others using Social Networks with the UIActivityViewController class.
