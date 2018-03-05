@@ -60,14 +60,14 @@ The user can load at least 3 distinct sets of words, sorted alphabetically.
 ![alt text](Images/NewFeaturesHOME.png "New bottom Bar/main homescreen")
 
 ### Added Functionality
-![alt text](Images/ShareAndSave.png "Share and save function")
 Added the ability to share and save a snapshot of the screen
+![alt text](Images/ShareAndSave.png "Share and save function")
 
-![alt text](Images/AddWord.png "Added option to add a word")
 Added option to add a new custom word
+![alt text](Images/AddWord.png "Added option to add a word")
 
-![alt text](Images/NewBackground.png "Custom background")
 Added ability to choose a custom background image from user's library
+![alt text](Images/NewBackground.png "Custom background")
 
 ### Updated Features
 - User can add custom words
