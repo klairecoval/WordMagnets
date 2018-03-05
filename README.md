@@ -63,6 +63,6 @@ The user can load at least 3 distinct sets of words, sorted alphabetically.
 ![alt text](Images/NewBackground.png "Custom background")
 
 ### Updated Features
-- User can add custom words
+- User can add custom words [Information/Resource](https://www.simplifiedios.net/ios-dialog-box-with-input/)
 - User can share their poetry via screenshot
 - User can choose a custom background image
