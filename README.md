@@ -54,5 +54,22 @@ The user can load at least 3 distinct sets of words, sorted alphabetically.
 - Use a larger font size when creating word magnets for an iPad. Be sure that the words can still fit on the smallest iPhone screens (the iPhone 5/iPhone SE)
 - The user can share their poetry (a screenshot of the entire poem) with others using Social Networks with the UIActivityViewController class.
 - The user can choose a poetry background image from their Photo Library with the UIImagePickerController class.
-- Have a model class that manages/contains application data.
-- Use dependency injection and do not make this a strict singleton
+
+## Checkpoint 3 (FINAL)
+### Updated Bottom Bar to Look Cleaner
+![alt text](Images/NewFeaturesHOME.png "New bottom Bar/main homescreen")
+
+### Added Functionality
+![alt text](Images/ShareAndSave.png "Share and save function")
+Added the ability to share and save a snapshot of the screen
+
+![alt text](Images/AddWord.png "Added option to add a word")
+Added option to add a new custom word
+
+![alt text](Images/NewBackground.png "Custom background")
+Added ability to choose a custom background image from user's library
+
+### Updated Features
+- User can add custom words
+- User can share their poetry via screenshot
+- User can choose a custom background image
